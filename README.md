@@ -14,6 +14,7 @@ The project uses **Tableau** to transform raw sales data into interactive dashbo
 
 ## 📊 Project Workflow
 ** Data Cleaning & Transformation → Data Analysis → KPI & Calculated Fields → Tableau Visualization Report → Business Insights**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c5239e1-2d14-467c-8492-d7323310fc12" />
 
 ## 📁 Dataset
 
