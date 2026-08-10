@@ -61,16 +61,16 @@ The workbook includes multiple interactive dashboards:
 
 * **Adventure Works Analysis** – Overall business performance
 * **Overview** – Key sales and profit KPIs
-* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6770a955-b575-4c22-bd43-e07d68916f78" />
-
-* **Customer Analysis** – Customer distribution, retention, and top customers
-* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/435b3156-bf12-49ce-bd53-b55110cb0447" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6770a955-b575-4c22-bd43-e07d68916f78" />
 
 * **Product & Region** – Product and regional performance
-* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59a54850-0303-4bd5-b8d5-eb993c470b9e" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59a54850-0303-4bd5-b8d5-eb993c470b9e" />
+
+* **Customer Analysis** – Customer distribution, retention, and top customers
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/435b3156-bf12-49ce-bd53-b55110cb0447" />
 
 * **Time Series Analysis** – Sales trends and seasonal patterns
-* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cd61cb5-6af6-4cc5-8ca3-5decf537369e" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cd61cb5-6af6-4cc5-8ca3-5decf537369e" />
 
 
 ## 🔍 Key Insights
