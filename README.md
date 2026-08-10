@@ -13,7 +13,7 @@ The project uses **Tableau** to transform raw sales data into interactive dashbo
 * **Excel** – Source data and data preparation
 
 ## 📊 Project Workflow
-** Data Cleaning & Transformation → Data Analysis → KPI & Calculated Fields → Tableau Visualization → Interactive Dashboard → Business Insights**
+** Data Cleaning & Transformation → Data Analysis → KPI & Calculated Fields → Tableau Visualization Report → Business Insights**
 
 ## 📁 Dataset
 
