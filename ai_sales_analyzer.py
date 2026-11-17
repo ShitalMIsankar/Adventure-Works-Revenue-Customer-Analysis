@@ -18,8 +18,8 @@ REQUIRED_COLUMNS = [
     "quantity", "unit_price", "unit_cost"
 ]
 
-def load_data(path: Path) -> pd.DataFrame:
-    df = pd.read_csv(path)
+def load_data(path: r"C:\Users\Lenovo\OneDrive\My Resume Files\Adventure Works Project Excel File.xlsx") -> pd.DataFrame:
+    df = pd.read_csv(r"C:\Users\Lenovo\OneDrive\My Resume Files\Adventure Works Project Excel File.xlsx")
     missing_cols = [c for c in REQUIRED_COLUMNS if c not in df.columns]
     if missing_cols:
         raise ValueError(
